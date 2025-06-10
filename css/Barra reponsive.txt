@@ -1,0 +1,44 @@
+Ofiiccess 2019:
+https://www.youtube.com/watch?v=ODtuqh5JtL0
+Descarga e instala Office 2019 español activado
+
+Barra reponsive:
+01-Curso de Dreamweaver CC 2017 - Barra de navegación
+https://www.youtube.com/watch?v=0FUGIoFSafo
+
+Slider o Carrucel:
+02-Curso de Dreamweaver CC 2017 - Slider
+https://www.youtube.com/watch?v=wqD-JC9WGVI
+
+Cuerpo del la pagina:
+03-Curso de Dreamweaver CC 2017 - Thumbnails
+https://www.youtube.com/watch?v=wdf5_VLyB4w   
+
+Pie de página: 
+04-Curso de Dreamweaver CC 2017 - Footer
+https://www.youtube.com/watch?v=oWzxdxbOeTs     
+
+
+Codigo css:Para el Menu
+05-Curso de Dreamweaver CC 2017 - Estilos CSS
+https://www.youtube.com/watch?v=Ir4FFo-A6nE
+
+
+Codigo css:Para el Contenido del Banner
+06-Curso de Dreamweaver CC 2017 - Estilos CSS
+https://www.youtube.com/watch?v=TzRXEuTJj9E    
+
+Codigo css: Aumentar los espacios de cada seccsion
+07-Curso de Dreamweaver CC 2017 - Estilos CSS
+https://www.youtube.com/watch?v=9-phkpkDVFU   
+
+Codigo Para crear la página de servicios
+11 Curso de Dreamweaver CC 2017 Página Servicios
+https://www.youtube.com/watch?v=hrEiXaPM-to 
+
+4.1. Tablas (Bootstrap 3, el manual oficial) - LibrosWeb
+https://librosweb.es/libro/bootstrap_3/capitulo_4/tablas.html
+https://librosweb.es/libro/bootstrap_3/capitulo_5/formulario_basico.html
+
+Color Azul:
+#001c43                                                                                                 
